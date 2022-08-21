@@ -1,16 +1,14 @@
 ### Hi there 👋
+ - I'm @elifilkay from Turkey,İzmir.
+ - I am a Software Engineering student.
+- 🌱 I’m currently learning Phyton,Java and HTML.
+- I am interested in Artificial İntelligence,Cyber Security and Programming .
+- 📫 How to reach me: 
+- Linkedn:
+https://www.linkedin.com/in/elif-ilkay-%C3%B6zkan-84a385217/
+-E-mail: 
+elifilkayozkan@gmail.com
 
-<!--
-**elifilkay/elifilkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
