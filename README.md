@@ -1,7 +1,6 @@
 ### Hi there 👋
  - I'm @elifilkay from Turkey,İzmir.
- - I am a Software Engineering student.
-- 🌱 I’m currently learning Phyton,Java,HTML,CSS and C++.
+ - I am a Software Engineer.
 - I am interested in Web development,Mobile Application Development and Artificial Intelligence .
 - 📫 How to reach me: 
 - Linkedn:
